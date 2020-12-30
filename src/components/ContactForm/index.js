@@ -97,7 +97,7 @@ const ContactForm = () => {
                     <SocialIconLink href="/" target="_blank" aria-label="Instagram">
                         <FaInstagram />
                     </SocialIconLink>
-                    <SocialIconLink href="/" target="_blank" aria-label="Github">
+                    <SocialIconLink href="https://github.com/" target="_blank" aria-label="Github">
                         <FaGithub />
                     </SocialIconLink>
                 </SocialIcons>
