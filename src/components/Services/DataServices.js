@@ -20,6 +20,9 @@ export const DataServicesOne = {
     icon1: Icon1,
     icon2: Icon2,
     icon3: Icon3,
+    href1: "https://juniorisep.com/",
+    href2: "https://www.wavestone.com/fr/",
+    href3: "http://www.mc2i.fr/",
 }
 
 export const DataServicesTwo = {
@@ -34,6 +37,9 @@ export const DataServicesTwo = {
     icon1: Icon4,
     icon2: Icon5,
     icon3: Icon6,
+    href1: "",
+    href2: "",
+    href3: "",
 }
 
 export const DataServicesThree = {
@@ -48,4 +54,7 @@ export const DataServicesThree = {
     icon1: Icon7,
     icon2: Icon8,
     icon3: Icon9,
+    href1: "",
+    href2: "",
+    href3: "",
 }
