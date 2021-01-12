@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { HeroContainer, HeroBg, HeroImage, HeroContent, HeroH1, HeroP, HeroButtonWrapper, ArrowForward, ArrowRight } from './HeroSectionElements';
 import image from '../../images/dark_moon.jpg';
 import { Button } from '../ButtonElements';
-import CV from '../../documents/CV-2020-Paul-Duval.pdf';
+import CV from '../../documents/CV-Paul-Duval-2021.pdf';
 
 const HeroSection = () => {
 
